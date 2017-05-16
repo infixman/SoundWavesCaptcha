@@ -1,0 +1,9 @@
+C:\Users\esnchg\Desktop\Captcha1\Captcha1\bin\Debug\Captcha1.exe.config
+C:\Users\esnchg\Desktop\Captcha1\Captcha1\bin\Debug\Captcha1.exe
+C:\Users\esnchg\Desktop\Captcha1\Captcha1\bin\Debug\Captcha1.pdb
+C:\Users\esnchg\Desktop\Captcha1\Captcha1\obj\Debug\Captcha1.csprojResolveAssemblyReference.cache
+C:\Users\esnchg\Desktop\Captcha1\Captcha1\obj\Debug\Captcha1.Form1.resources
+C:\Users\esnchg\Desktop\Captcha1\Captcha1\obj\Debug\Captcha1.Properties.Resources.resources
+C:\Users\esnchg\Desktop\Captcha1\Captcha1\obj\Debug\Captcha1.csproj.GenerateResource.Cache
+C:\Users\esnchg\Desktop\Captcha1\Captcha1\obj\Debug\Captcha1.exe
+C:\Users\esnchg\Desktop\Captcha1\Captcha1\obj\Debug\Captcha1.pdb
